@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚙️ Estudante de Engenharia de Computação na UNIFESP<br>🧑🏼‍💻 Trainee no núcleo de computação da SciTec Jr.
+⚙️ Computer Engineering student at UNIFESP 🧑🏼‍💻 Trainee no núcleo de computação da SciTec Jr.
 
 
 ## 🌐 Socials:
