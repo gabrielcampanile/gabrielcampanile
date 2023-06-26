@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" alt="rubics-cube" height="130em" src="rubics-cube.png">
+<img align="right" alt="rubics-cube" height="130em" src="cubogit.png">
 
 - ⚙ Computer Engineering student at UNIFESP 
 - 🧑🏼‍💻 Trainee SciTec Jr.
