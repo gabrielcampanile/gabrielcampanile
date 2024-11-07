@@ -2,7 +2,7 @@
 
 <img align="right" alt="rubics-cube" height="130em" src="cubogit.png">
 
-- ⚙ Computer Engineering student at UNIFESP
+- ⚙ Computer Science student at UNIFESP
 - 🧑🏼‍💻 Junior Front End Web Developer
 - ⚽ Soccer player in my free time
 - 📚 Dedicated learner, always striving for excellence
