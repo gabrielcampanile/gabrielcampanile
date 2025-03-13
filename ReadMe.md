@@ -55,6 +55,8 @@
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" alt="Vercel" height="25">
 </p>
 
+<hr>
+
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
