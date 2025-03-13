@@ -11,7 +11,7 @@
 
 ## <div align="center">💻 Tech Stack</div>
 <div align="center">
-  <table border="1" cellspacing="0" cellpadding="5">
+  <table border="0" cellspacing="0" cellpadding="5">
     <tr>
       <th>🌐 Programming Languages</th>
       <th>🎨 Web Dev & UX/UI</th>
