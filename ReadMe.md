@@ -59,7 +59,7 @@
   </table>
 </div>
 
-<details>
+<details open>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
   <div style="display: inline-block" align="center">
