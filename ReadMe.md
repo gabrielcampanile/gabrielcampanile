@@ -63,7 +63,7 @@
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
   <div style="display: inline-block" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrielcampanile&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&hide=contribs&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielcampanile&theme=dracula&hide_border=true&count_private=true&hide=contribs&show_icons=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcampanile&size_weight=0&count_weight=1&langs_count=6&layout=compact&hide=css&theme=dracula&hide_border=true">
   </div>
 
