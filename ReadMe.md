@@ -26,7 +26,7 @@
     <tr>
       <td align="center">
         <img src="https://shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" height="25"><br>
-        <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF" height="25">
+        <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF" height="25"><br>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" height="25"><br>
         <img src="https://img.shields.io/badge/R-%231776BB.svg?style=flat&logo=r&logoColor=white" height="25"><br>
         <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" height="25"><br>
